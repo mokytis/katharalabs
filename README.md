@@ -30,3 +30,4 @@ be reference in the relevant lab README files).
 [katharalabs](https://gitlab.com/mokytis/katharalabs) by
 [Luke Spademan](https://lukespademan.com) is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+You can find the full legal text [here](./LICENSE).
