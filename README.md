@@ -6,7 +6,7 @@ intended to be ran inside using
 
 ## Labs
 
-* [Lab 1: Starting Point](./l001-startingpoint/)
+* [Starting Point](./l-startingpoint/)
 
 ## Disclaimer
 

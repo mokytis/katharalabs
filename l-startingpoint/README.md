@@ -1,4 +1,4 @@
-# Lab 1: Starting Point
+# Starting Point
 
 Everything has to start somewhere. This lab is designed to introduce the basic
 structure of a kathara lab.
