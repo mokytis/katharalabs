@@ -7,6 +7,7 @@ intended to be ran inside using
 ## Labs
 
 * [Starting Point](./startingpoint/)
+* [Simple Switch](./simpleswitch/)
 
 ## Disclaimer
 
